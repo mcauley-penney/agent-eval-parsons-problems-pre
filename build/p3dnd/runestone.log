@@ -1,0 +1,95 @@
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/prefix-723.3bccd435914aa0ff.css?v=6C3DC64B HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/prefix-runestone.97de40e034b535c5.css?v=B5AF3493 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/underscore.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/doctools.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/sphinx_highlight.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/prefix-runtime.a0c870bab402ccbf.bundle.js?v=479EE06E HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/prefix-723.3e6434f80549315a.bundle.js?v=E359D53C HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/prefix-runestone.f6bda0c0ccce4835.bundle.js?v=8AC9B388 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/img/RAIcon.png HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:38] "GET /_static/b70781972ce7320b.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:35:39] code 404, message File not found
+127.0.0.1 - - [04/Apr/2025 11:35:39] "GET /runestone/static/favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /p3dnd-intro.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-723.3bccd435914aa0ff.css?v=6C3DC64B HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-runestone.97de40e034b535c5.css?v=B5AF3493 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/underscore.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/doctools.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/sphinx_highlight.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-runtime.a0c870bab402ccbf.bundle.js?v=479EE06E HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-723.3e6434f80549315a.bundle.js?v=E359D53C HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-runestone.f6bda0c0ccce4835.bundle.js?v=8AC9B388 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/img/RAIcon.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-915.e93fea9b3e714de5.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/915.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/276.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:41] "GET /_static/prefix-773.514769d5f67b595c.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:48] "GET /p3dnd-pwd-pre.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:48] "GET /_static/662.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:48] "GET /_static/prefix-380.67748940131a4a84.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:39:52] code 404, message File not found
+127.0.0.1 - - [04/Apr/2025 11:39:52] "GET /p3dnd-post.html HTTP/1.1" 404 -
+127.0.0.1 - - [04/Apr/2025 11:39:52] code 404, message File not found
+127.0.0.1 - - [04/Apr/2025 11:39:52] "GET /favicon.ico HTTP/1.1" 404 -
+
+Aborted!
+127.0.0.1 - - [04/Apr/2025 11:42:41] code 404, message File not found
+127.0.0.1 - - [04/Apr/2025 11:42:41] "GET /p3dnd-post.html HTTP/1.1" 404 -
+127.0.0.1 - - [04/Apr/2025 11:42:45] code 404, message File not found
+127.0.0.1 - - [04/Apr/2025 11:42:45] "GET /p3dnd-post.html HTTP/1.1" 404 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/pygments.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/basic.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/prefix-723.3bccd435914aa0ff.css?v=6C3DC64B HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/prefix-runestone.97de40e034b535c5.css?v=B5AF3493 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/documentation_options.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/underscore.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/_sphinx_javascript_frameworks_compat.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/doctools.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/sphinx_highlight.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/animationbase.js?v=A043C3A7 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/prefix-runtime.a0c870bab402ccbf.bundle.js?v=479EE06E HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/prefix-723.3e6434f80549315a.bundle.js?v=E359D53C HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/prefix-runestone.f6bda0c0ccce4835.bundle.js?v=8AC9B388 HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:49] "GET /_static/img/RAIcon.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:50] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:50] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:50] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:50] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:51] "GET /p3dnd-intro.html HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/prefix-915.e93fea9b3e714de5.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/prefix-773.514769d5f67b595c.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/915.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:52] "GET /_static/276.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:53] "GET /p3dnd-pwd-pre.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:54] "GET /_static/662.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:54] "GET /_static/prefix-380.67748940131a4a84.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:55] "GET /p3dnd-end.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Apr/2025 11:42:55] "GET /_static/pygments.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:55] "GET /_static/basic.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:55] "GET /_static/bootstrap-sphinx.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Apr/2025 11:42:55] "GET /_static/documentation_options.js HTTP/1.1" 304 -
+
+Aborted!
