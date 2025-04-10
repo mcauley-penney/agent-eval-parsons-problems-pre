@@ -36,7 +36,7 @@ if master_url is None:
     master_url = get_master_url()
 
 master_app = 'runestone'
-serving_dir = "./build/p3dnd"
+serving_dir = "./build/pre"
 
 #new 7/2019 changes
 # Change to False when running localhost
@@ -56,9 +56,9 @@ options(
     sphinx = Bunch(docroot=".",),
 
     build = Bunch(
-        builddir="./build/p3dnd",
+        builddir="./build/pre",
         sourcedir="_sources",
-        outdir="./build/p3dnd",
+        outdir="./build/pre",
         confdir=".",
         project_name=project_name,
         template_args={'course_id': project_name,
@@ -69,7 +69,7 @@ options(
                        'use_services': 'true',
                        'python3': 'true',
                        'dburl': 'postgresql://runestone@localhost/runestone',
-                       'basecourse': 'p3dnd',
+                       'basecourse': project_name,
                         # new 7/2019 changes
                        'dynamic_pages': dynamic_pages,
                        'downloads_enabled': 'false',
